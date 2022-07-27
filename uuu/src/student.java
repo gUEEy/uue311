@@ -31,7 +31,7 @@ public class student {
     }
 
     public void BroadcastGymnastics(){
-        System.out.println("我们在做广播体操");
+        System.out.println("我们在广播体操");
     }
 }
 
